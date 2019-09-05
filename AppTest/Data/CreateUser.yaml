@@ -1,0 +1,9 @@
+---
+- TestCase: Basic Test-1
+  id: '1'
+  name: Testing
+  job: Software
+- TestCase: Basic Test-2
+  id: '2'
+  name: Development
+  job: Hardware
